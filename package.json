@@ -1,0 +1,11 @@
+{
+  "name": "backend-masters",
+  "version": "1.0.0",
+  "description": "A final series of backend which is enough TO creak any job ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BHAVESH SAXENA",
+  "license": "ISC"
+}
